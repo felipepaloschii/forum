@@ -13,3 +13,31 @@ body {
     margin: 0;
     background-image: url("img/Gemini_Generated_Image_pwf2sqpwf2sqpwf2.png")
 }
+
+body{
+  font-family: "Montserrat";
+  color: #161313;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: brown;
+}
+
+form{
+    background-color: rgba(212, 85, 85, 0.466);
+    padding: 50px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+button{
+    padding: 10px;
+    align-self: center;
+    width: 160px;
+    
+}
+
+ 
