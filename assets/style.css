@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+}
+ 
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50px;
+    margin: 0;
+    background-image: url("img/Gemini_Generated_Image_pwf2sqpwf2sqpwf2.png")
+}
